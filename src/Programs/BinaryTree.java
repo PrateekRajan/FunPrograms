@@ -9,7 +9,7 @@ public class BinaryTree {
 
 	public static TreeNode nextHighest(TreeNode root, int input) {
 		if (root.right != null) {
-
+		//To-DO implement the code which looks for next hoghest node in the BST
 		}
 
 		return null;
